@@ -1,4 +1,5 @@
-### How to run it localy
+# TTT Wordle
+## How to run it localy
 - create shortcut for google chrome
 - right click
 - open properties 
@@ -6,7 +7,7 @@
 - open the shortcut 
 - go to `localhost:4200`
 
-### Go
+## Go
 for the server `main.go` or the local testing `client.go` 
 just `'go run .'` in the folder of the exe
 
